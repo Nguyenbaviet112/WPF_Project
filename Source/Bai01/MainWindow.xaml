@@ -1,0 +1,27 @@
+﻿<Window x:Class="Bai01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bai01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
+    <Canvas>
+        <Label Name="username_Label" Content="{Binding username_lb}" FontStyle="Italic" Foreground="Gray" Canvas.Left="72" Canvas.Top="99"></Label>
+        <Label Name="password_Label" Content="{Binding password_lb}" FontStyle="Italic" Foreground="Gray" Canvas.Left="72" Canvas.Top="189" RenderTransformOrigin="0.141,1.433"></Label>
+
+        <Label Content="_Username:" Width="100" Height="25" Target="{Binding ElementName=usernameTextBox}" Canvas.Left="72" Canvas.Top="74"></Label>
+        <TextBox LostFocus="usernameTextBox_LostFocus" GotFocus="usernameTextBox_GotFocus" Background="Transparent" Text="{Binding Username}" Name="usernameTextBox" Width="150" Height="30" Canvas.Left="72" Canvas.Top="99" Padding="5"></TextBox>
+        <Label Content="_Password:" Width="100" Height="25" Target="{Binding ElementName=passwordTextBox}" Canvas.Left="72" Canvas.Top="159"></Label>
+        <PasswordBox GotFocus="passwordTextBox_GotFocus" LostFocus="passwordTextBox_LostFocus" Name="passwordTextBox" Background="Transparent" Width="150" Height="30" Canvas.Left="72" Canvas.Top="189" Padding="5"></PasswordBox>
+
+        <Button Name="loginButton" Click="loginButton_Click" Width="100" Content="Login" Height="35" Canvas.Left="92" Canvas.Top="255"></Button>
+
+        <Label Name="versionLabel" Width="100" Height="25" Canvas.Left="191" Canvas.Top="390"></Label>
+        <Label Content="{Binding sv}" Width="100" Height="25" Canvas.Left="296" Canvas.Top="390"></Label>
+        <Label Name="dbLabel" Content="{Binding dtb}" Width="100" Height="25" Canvas.Left="396" Canvas.Top="390"></Label>
+
+        <Image MouseLeftButtonDown="Image_MouseLeftButtonDown" Width="100" Source="/Images/settings.png" Canvas.Left="684" Canvas.Top="310" RenderTransformOrigin="0.218,0.526" />
+
+    </Canvas>
+</Window>

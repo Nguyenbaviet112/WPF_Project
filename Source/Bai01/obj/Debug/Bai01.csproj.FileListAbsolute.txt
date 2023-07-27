@@ -1,0 +1,147 @@
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\bin\Debug\Bai01.exe.config
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\bin\Debug\Bai01.exe
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\bin\Debug\Bai01.pdb
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01.csprojAssemblyReference.cache
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\MainWindow.g.cs
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\App.g.cs
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01_MarkupCompile.cache
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01_MarkupCompile.lref
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\MainWindow.baml
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01.g.resources
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01.exe
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01.pdb
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\SettingsWindow.g.cs
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\SettingsWindow.baml
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01.csproj.Fody.CopyLocal.cache
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\DashboardWindow.g.cs
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\DashboardWindow.baml
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\App.baml
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\bin\Debug\Aspose.Cells.dll
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01.csproj.CopyComplete
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\bin\Debug\EntityFramework.dll
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\bin\Debug\EntityFramework.SqlServer.dll
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\bin\Debug\EntityFramework.xml
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\bin\Debug\EntityFramework.SqlServer.xml
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\Bai01_Content.g.cs
+E:\_Nam_03\_04_LTUDQL1\LY_THUYET\Tuan_02\BTLT_TUAN02\Bai01\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Bai01.exe.config
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Bai01.exe
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Bai01.pdb
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Aspose.Cells.dll
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\EntityFramework.dll
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\EntityFramework.SqlServer.dll
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\EntityFramework.xml
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\EntityFramework.SqlServer.xml
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.csprojAssemblyReference.cache
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\DashboardWindow.g.cs
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\MainWindow.g.cs
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\SettingsWindow.g.cs
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\App.g.cs
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01_Content.g.cs
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01_MarkupCompile.cache
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01_MarkupCompile.lref
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\App.baml
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\DashboardWindow.baml
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\MainWindow.baml
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\SettingsWindow.baml
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.g.resources
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.csproj.Fody.CopyLocal.cache
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.csproj.CopyComplete
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.exe
+E:\_Nam_03\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.pdb
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Bai01.exe.config
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Bai01.exe
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Bai01.pdb
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Aspose.Cells.dll
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\EntityFramework.dll
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\EntityFramework.xml
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.csprojAssemblyReference.cache
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\DashboardWindow.g.cs
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\MainWindow.g.cs
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\SettingsWindow.g.cs
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\App.g.cs
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01_Content.g.cs
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01_MarkupCompile.cache
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01_MarkupCompile.lref
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\App.baml
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\DashboardWindow.baml
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\MainWindow.baml
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\SettingsWindow.baml
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.g.resources
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.csproj.Fody.CopyLocal.cache
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.csproj.CopyComplete
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.exe
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\Bai01.pdb
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\ControlzEx.dll
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Fluent.dll
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\ControlzEx.pdb
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\ControlzEx.xml
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Fluent.pdb
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Fluent.xml
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\AdminWindow.g.cs
+C:\Users\BA VIET\Desktop\_04_LTUDQL1\THUC_HANH\Tuan_02\18600321\Bai01\obj\Debug\AdminWindow.baml
+C:\Users\BA VIET\Desktop\Tuan_02\18600321\Bai01\bin\Debug\Bai01.exe
+C:\Users\BA VIET\Desktop\Tuan_02\18600321\Bai01\bin\Debug\ControlzEx.dll
+C:\Users\BA VIET\Desktop\Tuan_02\18600321\Bai01\bin\Debug\Fluent.dll
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Bai01.exe.config
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Bai01.exe
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Bai01.pdb
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\ControlzEx.dll
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\EntityFramework.dll
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Fluent.dll
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\ControlzEx.pdb
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\ControlzEx.xml
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\EntityFramework.xml
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Fluent.pdb
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Fluent.xml
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01.csprojAssemblyReference.cache
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\AdminWindow.g.cs
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\DashboardWindow.g.cs
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\MainWindow.g.cs
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\SettingsWindow.g.cs
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\App.g.cs
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01_Content.g.cs
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01_MarkupCompile.cache
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01_MarkupCompile.lref
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\App.baml
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\AdminWindow.baml
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\DashboardWindow.baml
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\MainWindow.baml
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\SettingsWindow.baml
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01.g.resources
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01.Properties.Resources.resources
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01.csproj.GenerateResource.cache
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01.csproj.CoreCompileInputs.cache
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01.csproj.Fody.CopyLocal.cache
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01.csproj.CopyComplete
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01.exe
+C:\Users\ThinkKING\Desktop\18600090-18600169-18600321-18600357\Source\Bai01\obj\Debug\Bai01.pdb
+C:\Users\NguyenBaViet\Downloads\18600090-18600169-18600321-18600357\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Bai01.exe
+C:\Users\NguyenBaViet\Downloads\18600090-18600169-18600321-18600357\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\ControlzEx.dll
+C:\Users\NguyenBaViet\Downloads\18600090-18600169-18600321-18600357\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\EntityFramework.dll
+C:\Users\NguyenBaViet\Downloads\18600090-18600169-18600321-18600357\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NguyenBaViet\Downloads\18600090-18600169-18600321-18600357\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Fluent.dll
+C:\Users\NguyenBaViet\Downloads\18600090-18600169-18600321-18600357\18600090-18600169-18600321-18600357\Source\Bai01\bin\Debug\Microsoft.Xaml.Behaviors.dll

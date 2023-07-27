@@ -1,0 +1,7 @@
+1. Đăng nhập vào màn hình admin: username: admin, password: 123
+2. Đăng nhập vào màn hình nhân viên: username: nv, password: 123
+3. khi chưa có dữ liệu trong file Mystore.sql thì phải đăng nhập vào màn hình nhân viên để import file excel vô,
+sau đó mới có thể chỉnh sửa trên dữ liệu trên màn hình admin, nếu không import trước sẽ bị lỗi khi đăng nhập vào màn hình admin.
+4. Sản phẩm được thêm vào chỉ hiện khi có nhập Quantity(số lượng), nếu để trống sẽ không hiển thị được.
+5. Khi edit hoặc add sản phẩm, lúc chọn ảnh sẽ không hiển thị được nhưng khi thực hiện chức năng add và edit thì dữ liệu vẫn được
+thêm vào bình thường
